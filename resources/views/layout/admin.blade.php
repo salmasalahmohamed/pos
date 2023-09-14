@@ -1,0 +1,1 @@
+resources/views/layout/admin.blade.php
